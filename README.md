@@ -23,7 +23,7 @@ Inside a module folder there is usually a `README.md`, `notes/`, `examples/` and
 
 ## Progress
 
-- [ ] Module 1
+- [x] Module 1 - Introduction to the Course
 - [ ] Module 2
 - [ ] Module 3
 - [ ] Module 4
@@ -31,7 +31,7 @@ Inside a module folder there is usually a `README.md`, `notes/`, `examples/` and
 
 ## Topics covered
 
-Updated as I finish each module.
+- **Module 1:** setting up the JDK and BlueJ, compiling and running from the terminal, study habits, asking for help
 
 ## Projects
 
