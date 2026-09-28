@@ -24,7 +24,7 @@ Inside a module folder there is usually a `README.md`, `notes/`, `examples/` and
 ## Progress
 
 - [x] Module 1 - Introduction to the Course
-- [ ] Module 2
+- [x] Module 2 - Fundamental Java Syntax and Semantics
 - [ ] Module 3
 - [ ] Module 4
 - [ ] Module 5
@@ -32,6 +32,7 @@ Inside a module folder there is usually a `README.md`, `notes/`, `examples/` and
 ## Topics covered
 
 - **Module 1:** setting up the JDK and BlueJ, compiling and running from the terminal, study habits, asking for help
+- **Module 2:** variables and types, operators, methods, conditionals, classes and objects, loops, the seven-step problem solving approach
 
 ## Projects
 
