@@ -42,6 +42,18 @@ System.out.println(a / (double) b); // 3.5
 
 If both sides are `int`, the result is an `int` and the decimal part is dropped (not rounded). Casting one side to `double` fixes it.
 
+## Classes are types too
+
+Every class defines a new type. `Point p;` declares a variable whose type is `Point`, the same way `int n;` declares one of type `int`. The compiler then only allows `Point` objects in `p`, and only lets you call methods that `Point` has.
+
+Types show up in three places, and they all have to agree:
+
+- variable declarations: `double d = ...`
+- method parameters: `distanceTo(Point other)`
+- return types: `public double distanceTo(...)`
+
+A lot of compile errors are just a mismatch between these, like "incompatible types: double cannot be converted to int".
+
 ## Casting
 
 - Widening (`int` to `double`) happens automatically.
