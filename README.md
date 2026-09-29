@@ -1,8 +1,25 @@
-# Java Programming Learning
+# Java Certification Learning
 
-A personal repository documenting my Java learning journey.
+My notes, code and practice from the **Java Programming: Solving Problems with Software** certification course by Duke University on Coursera.
 
-I use it for revision notes, my own example code, practice problems and small projects from the Java course I took. Later I plan to extend it for DSA and interview prep.
+I use this repo for revision: notes for every lecture, my own runnable examples, practice problems and a mini project. Later I plan to extend it for DSA and interview prep.
+
+## Certificate
+
+**Java Programming: Solving Problems with Software**, Duke University (Coursera). Completed 30 September 2026.
+
+- [View certificate](https://coursera.org/share/0bc6cb434b85ae82dfc7e7a2a60ea530)
+- [Verify on Coursera](https://www.coursera.org/account/accomplishments/verify/RCPO2P559H2S)
+
+## Highlights
+
+- **5 modules, every lecture covered.** Each module README lists its notes in the same order as the course videos.
+- **Runnable code for every topic.** 20+ examples, each with its own `main`, all tested.
+- **Original practice.** 16 exercises with solutions across modules 2 to 4, using my own problems and data.
+- **Mini project: [Library Checkouts](projects/library-checkouts).** Analyses a set of yearly CSV files: totals, top titles per genre, trends across years and the busiest genre.
+- **Real data handling.** CSV parsing with Apache Commons CSV, missing values (`N/A`), bad rows and multiple files.
+- **Image processing.** Batch brighten and black-and-white effects using plain Java `BufferedImage`.
+- **Built topic by topic.** Every topic is its own commit, so the history follows the course.
 
 ## Timeline
 
@@ -19,9 +36,9 @@ The diagram is a draw.io file ([`docs/learning-flow.drawio.svg`](docs/learning-f
 The course has 5 modules. Each module has its own folder, and projects go in `projects/`.
 
 ```
-java-programming-learning/
+Java-Certification-Learning/
 ├── README.md
-├── docs/            learning path diagram
+├── docs/            learning path flowchart
 ├── module-01/       Introduction to the Course
 ├── module-02/       Fundamental Java Syntax and Semantics
 ├── module-03/       Strings in Java
