@@ -26,7 +26,7 @@ Inside a module folder there is usually a `README.md`, `notes/`, `examples/` and
 - [x] Module 1 - Introduction to the Course
 - [x] Module 2 - Fundamental Java Syntax and Semantics
 - [x] Module 3 - Strings in Java
-- [ ] Module 4
+- [x] Module 4 - CSV Files and Basic Statistics
 - [ ] Module 5
 
 ## Topics covered
@@ -34,6 +34,7 @@ Inside a module folder there is usually a `README.md`, `notes/`, `examples/` and
 - **Module 1:** setting up the JDK and BlueJ, compiling and running from the terminal, study habits, asking for help
 - **Module 2:** variables and types, operators, methods, conditionals, classes and objects, loops, the seven-step problem solving approach
 - **Module 3:** string methods and positions, `indexOf` with `while` loops, the Math class, logical operators, separation of concerns, storing results in an ArrayList, debugging
+- **Module 4:** CSV files with Apache Commons CSV, filtering rows, converting strings to numbers, finding the maximum with `null`, processing multiple files, refactoring
 
 ## Projects
 
