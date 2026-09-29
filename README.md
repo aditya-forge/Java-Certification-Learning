@@ -38,6 +38,7 @@ The course has 5 modules. Each module has its own folder, and projects go in `pr
 ```
 Java-Certification-Learning/
 ├── README.md
+├── Assignments/     Assignment answers and data
 ├── docs/            learning path flowchart
 ├── module-01/       Introduction to the Course
 ├── module-02/       Fundamental Java Syntax and Semantics
