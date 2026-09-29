@@ -87,6 +87,7 @@ java -cp commons-csv-1.10.0.jar examples/HighestSales.java
 
 ## Useful resources
 
+- [Duke Learn to Program Resources](https://www.dukelearntoprogram.com/course2/files.php)
 - [Java SE documentation](https://docs.oracle.com/en/java/javase/)
 - [Java language tutorials](https://docs.oracle.com/javase/tutorial/)
 - [Apache Commons CSV](https://commons.apache.org/proper/commons-csv/)
